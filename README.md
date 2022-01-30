@@ -1,2 +1,2 @@
 # Projeto-01
-Projeto referente ao módulo 01 - 
+Projeto 01 - referente ao módulo 01 - 
